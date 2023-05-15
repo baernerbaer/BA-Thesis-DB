@@ -1,4 +1,4 @@
-# Repetition
+# SR-MPP: Spaced Repetition Maintenance Practise Protocol
 ## What is this?
 
 This is a small flashcard app written for my bachelor's thesis. It is targeted towards musicians and features a custom spaced-repetition algorithm.
